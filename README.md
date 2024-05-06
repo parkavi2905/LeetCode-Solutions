@@ -1,2 +1,2 @@
 # LeetCode-Solutions
-LeetCode Solutions in C, Java and MySQL
+My solutions to LeetCode problems in C, Java and MySQL
